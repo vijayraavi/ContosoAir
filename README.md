@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/DevOps-400/ContosoAir/_apis/build/status/vijayraavi.ContosoAir?branchName=master)](https://dev.azure.com/DevOps-400/ContosoAir/_build/latest?definitionId=17&branchName=master)
 
 
 # Microsoft.Github CI Demo
